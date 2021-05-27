@@ -1,0 +1,7 @@
+class voertuig
+
+    merk: Tesla
+    brandstof: Elektrisch
+    model: model x
+    zitplaatsen: 2
+    jaar van uitkomst 2018

@@ -1,0 +1,23 @@
+class bioscoopkaartje
+    de film
+    de datum
+    barcode
+
+    scannen
+    scheuren
+
+class bezoeker
+    concentratie
+    favoriete eten
+    favoriete drinken
+
+    drinken 
+    eten
+
+class film
+    lengte
+    genre
+    maker
+
+    lengte
+    genre

@@ -1,0 +1,24 @@
+boek
+1 lezen
+2 informatie behouden
+3 papier
+
+bed
+1 matras
+2 deken
+3 kussen
+
+tas
+1 ritsen
+2 opslag
+3 waterdicht
+
+koptelefoon
+1 speelt geluid
+2 geluid harder of zachter maken
+3 bedraad
+
+kast
+1 opslag
+2 deuren
+3 spiegel
