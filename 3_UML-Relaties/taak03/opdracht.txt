@@ -1,0 +1,23 @@
+class figuur
+    cirkel
+    rechthoek
+    vierkant
+
+class wiel
+    fietswiel
+    winterband
+    autoband
+    zomerband
+
+class trein
+    dubbeldekker
+    intercity
+    sprinter
+    goederetrein 
+
+class roofdieren
+    Gewervelde dieren Zoogdieren
+        walvissen
+    vogels
+        vleermuizen
+    insecten
