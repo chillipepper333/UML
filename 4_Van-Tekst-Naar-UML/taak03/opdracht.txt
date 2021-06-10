@@ -1,0 +1,17 @@
+persoon{
+    leden
+    iemand
+    lid
+}
+
+tenissen{
+    ranglijst
+    posieties
+    wedstrijden
+}
+
+plek{
+    tennisvereniging TopSpin
+    avond
+    woensdagavond
+}

@@ -1,0 +1,2 @@
+lid, ranglijst, tenissen, je mag met iemand tenissen die 5 posieties hoger is. je wisselt van posieties als je wint,
+ je mag maximaal 2 keer spelen
